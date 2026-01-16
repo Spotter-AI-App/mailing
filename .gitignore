@@ -1,2 +1,3 @@
 .env
-tables
+*.csv
+__pycache__
