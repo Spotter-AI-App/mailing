@@ -1,0 +1,11 @@
+{
+    "name": "Beta Invitation",
+    "subjects": {
+        "es": "Invitación Descarga Spotter AI Beta Version",
+        "en": "Invitation to Download Spotter AI Beta Version"
+    },
+    "templates": {
+        "es": "template_es.html",
+        "en": "template_en.html"
+    }
+}
