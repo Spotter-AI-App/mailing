@@ -1,0 +1,11 @@
+{
+    "name": "Build 8 Update",
+    "subjects": {
+        "es": "Spotter AI - Nueva Actualización",
+        "en": "Spotter AI - New Update"
+    },
+    "templates": {
+        "es": "template_es.html",
+        "en": "template_en.html"
+    }
+}
