@@ -1,0 +1,11 @@
+{
+    "name": "Spotter AI - App Store Release Campaign",
+    "subjects": {
+        "es": "Lanzamiento APP Store - Spotter AI",
+        "en": "App Store Release - Spotter AI"
+    },
+    "templates": {
+        "es": "template_es.html",
+        "en": "template_en.html"
+    }
+}
